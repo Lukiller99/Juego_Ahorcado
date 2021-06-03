@@ -1,0 +1,20 @@
+<resources>
+
+
+
+    <string name="app_name">Ahorcado</string>
+    <string name="question">Question</string>
+    <string name="check">Verificar</string>
+
+    <array name="pregunta">
+        <item>¿Cúantos ministerios tiene Ecuador?;12;45;10;*23;26;34;10;4</item>
+        <item>¿Wuién escribió la Odisea?;Poncio Pilato;*Homero;Pericles;Arquimedes;Hercules;Alejo Carpentier;Aristóteles;Jesús de Nazaret</item>
+        <item>¿Cuándo estalló la Segunda Guerra Mundial?;1975;1938;1935;1945;1944;1942;1936;*1939</item>
+        <item>¿Cuál es el tercer planeta del Sistema Solar?;Venus;*Tierra;Marte;Mercurio;Júpiter;Luna;Saturno;Ganímedes</item>
+        <item>¿Cúal es la formula del Bicarboanto de Calcior?;Cl203;Mg(Brt)2;h20;CoHC24;CO2;*Ca(HCO3);Ca(CLO3);Ca(CLO3)2</item>
+
+
+    </array>
+
+
+</resources>
